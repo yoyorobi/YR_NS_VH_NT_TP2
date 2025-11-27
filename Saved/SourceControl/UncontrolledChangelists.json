@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/2389005/Desktop/YR_NS_VH_NT_TP2/Content/Game/Mesh/individual_first_aid_kit_ifakblack_color.uasset",
+				"C:/Users/2389005/Desktop/YR_NS_VH_NT_TP2/Content/Game/Materials/Texture/individual_first_aid_kit_ifakblack_color.uasset",
+				"C:/Users/2389005/Desktop/YR_NS_VH_NT_TP2/Content/Game/Mesh/spike_trap_01.uasset",
+				"C:/Users/2389005/Desktop/YR_NS_VH_NT_TP2/Content/Game/Systems/spike_trap_01.uasset",
 				"C:/Users/2389005/Desktop/YR_NS_VH_TP2/Content/Sandbox/VH/BP_Laser.uasset",
 				"C:/Users/2389005/Desktop/YR_NS_VH_TP2/Content/Sandbox/VH/M_Laser.uasset",
 				"C:/Users/2389005/Desktop/YR_NS_VH_TP2/Content/Sandbox/VH/Level_Victor.umap",
