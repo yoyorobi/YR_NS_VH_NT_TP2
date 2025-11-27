@@ -30,6 +30,12 @@
 				"D:/YR_NS_VH_TP2/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"D:/YR_NS_VH_TP2/Content/Game/Blueprints/GameModes/BP_ThirdPersonGameMode.uasset",
 				"D:/YR_NS_VH_TP2/Content/Game/Blueprints/PlayerControlers/BP_ThirdPersonPlayerController.uasset",
+				"D:/YR_NS_VH_TP2/Content/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.uasset",
+				"D:/YR_NS_VH_TP2/Content/Game/Blueprints/Components/AC_Health.uasset",
+				"D:/YR_NS_VH_TP2/Content/SandBox/YR/BP_PressurePlate.uasset",
+				"C:/Users/2389005/Desktop/YR_NS_VH_TP2/Content/Sandbox/VH/BP_Laser.uasset",
+				"C:/Users/2389005/Desktop/YR_NS_VH_TP2/Content/Sandbox/VH/M_Laser.uasset",
+				"C:/Users/2389005/Desktop/YR_NS_VH_TP2/Content/Sandbox/VH/Level_Victor.umap",
 				"D:/YR_NS_VH_TP2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/4G/TYFCMQ9MC435YW6FZBF5FS.uasset",
 				"D:/YR_NS_VH_TP2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/SS/QXUZ4IXFNKHCYFWERA1HQA.uasset",
 				"D:/YR_NS_VH_TP2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/JR/W7S9610Y7RWELGF93FZYAE.uasset",
@@ -97,9 +103,7 @@
 				"D:/YR_NS_VH_TP2/Content/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/5/TX/O6OLZU4WSCI3YRJS922SWL.uasset",
 				"D:/YR_NS_VH_TP2/Content/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/0/TQ/1UP2MCOIYXC0GTW985R4K0.uasset",
 				"D:/YR_NS_VH_TP2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/RI/R8L7GQXCHQGMMKBPTBJTNA.uasset",
-				"D:/YR_NS_VH_TP2/Content/ThirdPerson/Lvl_ThirdPerson.umap",
-				"D:/YR_NS_VH_TP2/Content/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.uasset",
-				"D:/YR_NS_VH_TP2/Content/Game/Blueprints/Components/AC_Health.uasset"
+				"D:/YR_NS_VH_TP2/Content/ThirdPerson/Lvl_ThirdPerson.umap"
 			]
 		}
 	]
