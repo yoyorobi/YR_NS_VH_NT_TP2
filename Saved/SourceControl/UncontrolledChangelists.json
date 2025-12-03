@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Nicholas/Desktop/Unreal Projects/YR_NS_VH_NT_TP2/Content/SandBox/NS/BP_Interacible.uasset",
+				"C:/Users/Nicholas/Desktop/Unreal Projects/YR_NS_VH_NT_TP2/Content/Game/Blueprints/Pawns_Characters/Player/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Nicholas/Desktop/Unreal Projects/YR_NS_VH_NT_TP2/Content/SandBox/NS/Level_Nicholas.umap",
+				"C:/Users/Nicholas/Desktop/Unreal Projects/YR_NS_VH_NT_TP2/Content/SandBox/NS/WBP_InteractionUI.uasset",
 				"C:/Users/2269991/Desktop/YR_NS_VH_NT_TP2/Content/SandBox/NS/Level_Nicholas.umap",
 				"C:/Users/2269991/Desktop/YR_NS_VH_NT_TP2/Content/Game/Systems/Input/IMC_Default.uasset",
 				"C:/Users/2269991/Desktop/YR_NS_VH_NT_TP2/Content/Game/Systems/Input/Actions/IA_Interact.uasset",
